@@ -1,0 +1,2 @@
+Python官网：www.python.org
+Pycharm官网：https://www.jetbrains.com/pycharm/download

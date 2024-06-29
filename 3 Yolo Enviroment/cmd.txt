@@ -1,0 +1,9 @@
+pip install ultralytics -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+pip uninstall torch
+
+pip uninstall torchvision
+
+这里要按对应版本安装
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+

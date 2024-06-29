@@ -1,0 +1,2 @@
+pytorch官网：https://pytorch.org
+Cuda安装地址：https://developer.nvidia.com/cuda-toolkit-archive
