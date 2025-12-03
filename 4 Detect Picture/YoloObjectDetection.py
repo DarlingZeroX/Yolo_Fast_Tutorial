@@ -8,7 +8,7 @@ class YoloObjectDetection:
 
     def __init__(self):
         #加载Yolo模型
-        self.mModel = YOLO('yolov8n.pt', verbose=False)
+        self.mModel = YOLO('../5 Realtime Dectect/yolov8n.pt', verbose=False)
 
     def getDetectResult(self):
         return self.mDetectResult
